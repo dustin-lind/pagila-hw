@@ -1,5 +1,5 @@
 # pagila-hw
-[![](https://github.com/dustin-lind/pagila-hw/workflows/tests/badge.svg)](https://github.com/dustin-lind/pagila-hw/actions?query=workflow%3Atests)
+[![](https://github.com/mustin-lind/pagila-hw/workflows/tests/badge.svg)](https://github.com/dustin-lind/pagila-hw/actions?query=workflow%3Atests)
 
 ## Background
 
