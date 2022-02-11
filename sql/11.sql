@@ -3,3 +3,12 @@
  * Use tables inventory and film.
  * Order by film title alphabetically.
  */
+SELECT
+    film.film_id,
+    title,
+    count(*) as count
+FROM film
+INNER JOIN inventory USING(film_id)
+WHERE SUBSTR(title,1,1) = 'H'
+GROUP BY film_id
+ORDER BY title DESC;
